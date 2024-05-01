@@ -1,0 +1,6 @@
+nltk
+langchain
+unstructured
+openai
+tiktoken
+chromadb==0.4.18
